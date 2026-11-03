@@ -1,0 +1,2187 @@
+[
+    {
+        "name": "Bulbasaur",
+        "number": 1,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Ivysaur",
+        "number": 2,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Venusaur",
+        "number": 3,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": true,
+        "gigamax": true
+    },
+    {
+        "name": "Charmander",
+        "number": 4,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Charmeleon",
+        "number": 5,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Charizard",
+        "number": 6,
+        "types": [
+            "fuego",
+            "volador"
+        ],
+        "weaknesses": [
+            "agua",
+            "eléctrico",
+            "roca"
+        ],
+        "mega": true,
+        "gigamax": true
+    },
+    {
+        "name": "Squirtle",
+        "number": 7,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Wartortle",
+        "number": 8,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Blastoise",
+        "number": 9,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": true,
+        "gigamax": true
+    },
+    {
+        "name": "Caterpie",
+        "number": 10,
+        "types": [
+            "bicho"
+        ],
+        "weaknesses": [
+            "fuego",
+            "volador",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Metapod",
+        "number": 11,
+        "types": [
+            "bicho"
+        ],
+        "weaknesses": [
+            "fuego",
+            "volador",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Butterfree",
+        "number": 12,
+        "types": [
+            "bicho",
+            "volador"
+        ],
+        "weaknesses": [
+            "fuego",
+            "eléctrico",
+            "hielo",
+            "volador",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": true
+    },
+    {
+        "name": "Weedle",
+        "number": 13,
+        "types": [
+            "bicho",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "volador",
+            "psíquico",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Kakuna",
+        "number": 14,
+        "types": [
+            "bicho",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "volador",
+            "psíquico",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Beedrill",
+        "number": 15,
+        "types": [
+            "bicho",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "volador",
+            "psíquico",
+            "roca"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Pidgey",
+        "number": 16,
+        "types": [
+            "normal",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Pidgeotto",
+        "number": 17,
+        "types": [
+            "normal",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Pidgeot",
+        "number": 18,
+        "types": [
+            "normal",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "roca"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Rattata",
+        "number": 19,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Raticate",
+        "number": 20,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Spearow",
+        "number": 21,
+        "types": [
+            "normal",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Fearow",
+        "number": 22,
+        "types": [
+            "normal",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Ekans",
+        "number": 23,
+        "types": [
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Arbok",
+        "number": 24,
+        "types": [
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Pikachu",
+        "number": 25,
+        "types": [
+            "eléctrico"
+        ],
+        "weaknesses": [
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": true
+    },
+    {
+        "name": "Raichu",
+        "number": 26,
+        "types": [
+            "eléctrico"
+        ],
+        "weaknesses": [
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Sandshrew",
+        "number": 27,
+        "types": [
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Sandslash",
+        "number": 28,
+        "types": [
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Nidorina",
+        "number": 30,
+        "types": [
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Nidoqueen",
+        "number": 31,
+        "types": [
+            "veneno",
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "hielo",
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Nidorino",
+        "number": 33,
+        "types": [
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Nidoking",
+        "number": 34,
+        "types": [
+            "veneno",
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "hielo",
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Clefairy",
+        "number": 35,
+        "types": [
+            "hada"
+        ],
+        "weaknesses": [
+            "veneno",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Clefable",
+        "number": 36,
+        "types": [
+            "hada"
+        ],
+        "weaknesses": [
+            "veneno",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Vulpix",
+        "number": 37,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Ninetales",
+        "number": 38,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Jigglypuff",
+        "number": 39,
+        "types": [
+            "normal",
+            "hada"
+        ],
+        "weaknesses": [
+            "veneno",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Wigglytuff",
+        "number": 40,
+        "types": [
+            "normal",
+            "hada"
+        ],
+        "weaknesses": [
+            "veneno",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Zubat",
+        "number": 41,
+        "types": [
+            "veneno",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "psíquico",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Golbat",
+        "number": 42,
+        "types": [
+            "veneno",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "psíquico",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Oddish",
+        "number": 43,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Gloom",
+        "number": 44,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Vileplume",
+        "number": 45,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Paras",
+        "number": 46,
+        "types": [
+            "bicho",
+            "planta"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "veneno",
+            "volador",
+            "bicho",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Parasect",
+        "number": 47,
+        "types": [
+            "bicho",
+            "planta"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "veneno",
+            "volador",
+            "bicho",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Venonat",
+        "number": 48,
+        "types": [
+            "bicho",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "volador",
+            "psíquico",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Venomoth",
+        "number": 49,
+        "types": [
+            "bicho",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "volador",
+            "psíquico",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Diglett",
+        "number": 50,
+        "types": [
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Dugtrio",
+        "number": 51,
+        "types": [
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Meowth",
+        "number": 52,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": true
+    },
+    {
+        "name": "Persian",
+        "number": 53,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Psyduck",
+        "number": 54,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Golduck",
+        "number": 55,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Mankey",
+        "number": 56,
+        "types": [
+            "lucha"
+        ],
+        "weaknesses": [
+            "volador",
+            "psíquico",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Primeape",
+        "number": 57,
+        "types": [
+            "lucha"
+        ],
+        "weaknesses": [
+            "volador",
+            "psíquico",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Growlithe",
+        "number": 58,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Arcanine",
+        "number": 59,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Poliwag",
+        "number": 60,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Poliwhirl",
+        "number": 61,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Poliwrath",
+        "number": 62,
+        "types": [
+            "agua",
+            "lucha"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "volador",
+            "psíquico",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Abra",
+        "number": 63,
+        "types": [
+            "psíquico"
+        ],
+        "weaknesses": [
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Kadabra",
+        "number": 64,
+        "types": [
+            "psíquico"
+        ],
+        "weaknesses": [
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Alakazam",
+        "number": 65,
+        "types": [
+            "psíquico"
+        ],
+        "weaknesses": [
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Machop",
+        "number": 66,
+        "types": [
+            "lucha"
+        ],
+        "weaknesses": [
+            "volador",
+            "psíquico",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Machoke",
+        "number": 67,
+        "types": [
+            "lucha"
+        ],
+        "weaknesses": [
+            "volador",
+            "psíquico",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Machamp",
+        "number": 68,
+        "types": [
+            "lucha"
+        ],
+        "weaknesses": [
+            "volador",
+            "psíquico",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": true
+    },
+    {
+        "name": "Bellsprout",
+        "number": 69,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Weepinbell",
+        "number": 70,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Victreebel",
+        "number": 71,
+        "types": [
+            "planta",
+            "veneno"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "volador",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Tentacool",
+        "number": 72,
+        "types": [
+            "agua",
+            "veneno"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Tentacruel",
+        "number": 73,
+        "types": [
+            "agua",
+            "veneno"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Geodude",
+        "number": 74,
+        "types": [
+            "roca",
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo",
+            "lucha",
+            "tierra",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Graveler",
+        "number": 75,
+        "types": [
+            "roca",
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo",
+            "lucha",
+            "tierra",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Golem",
+        "number": 76,
+        "types": [
+            "roca",
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo",
+            "lucha",
+            "tierra",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Ponyta",
+        "number": 77,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Rapidash",
+        "number": 78,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Slowpoke",
+        "number": 79,
+        "types": [
+            "agua",
+            "psíquico"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Slowbro",
+        "number": 80,
+        "types": [
+            "agua",
+            "psíquico"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Magnemite",
+        "number": 81,
+        "types": [
+            "eléctrico",
+            "acero"
+        ],
+        "weaknesses": [
+            "fuego",
+            "lucha",
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Magneton",
+        "number": 82,
+        "types": [
+            "eléctrico",
+            "acero"
+        ],
+        "weaknesses": [
+            "fuego",
+            "lucha",
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Doduo",
+        "number": 84,
+        "types": [
+            "normal",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Dodrio",
+        "number": 85,
+        "types": [
+            "normal",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "hielo",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Seel",
+        "number": 86,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Dewgong",
+        "number": 87,
+        "types": [
+            "agua",
+            "hielo"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "lucha",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Grimer",
+        "number": 88,
+        "types": [
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Muk",
+        "number": 89,
+        "types": [
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Shellder",
+        "number": 90,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Cloyster",
+        "number": 91,
+        "types": [
+            "agua",
+            "hielo"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "lucha",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Gastly",
+        "number": 92,
+        "types": [
+            "fantasma",
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Haunter",
+        "number": 93,
+        "types": [
+            "fantasma",
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Gengar",
+        "number": 94,
+        "types": [
+            "fantasma",
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": true,
+        "gigamax": true
+    },
+    {
+        "name": "Onix",
+        "number": 95,
+        "types": [
+            "roca",
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo",
+            "lucha",
+            "tierra",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Drowzee",
+        "number": 96,
+        "types": [
+            "psíquico"
+        ],
+        "weaknesses": [
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Hypno",
+        "number": 97,
+        "types": [
+            "psíquico"
+        ],
+        "weaknesses": [
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Krabby",
+        "number": 98,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Kingler",
+        "number": 99,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": true
+    },
+    {
+        "name": "Voltorb",
+        "number": 100,
+        "types": [
+            "eléctrico"
+        ],
+        "weaknesses": [
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Electrode",
+        "number": 101,
+        "types": [
+            "eléctrico"
+        ],
+        "weaknesses": [
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Exeggcute",
+        "number": 102,
+        "types": [
+            "planta",
+            "psíquico"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "veneno",
+            "volador",
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Exeggutor",
+        "number": 103,
+        "types": [
+            "planta",
+            "psíquico"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "veneno",
+            "volador",
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Cubone",
+        "number": 104,
+        "types": [
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Marowak",
+        "number": 105,
+        "types": [
+            "tierra"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Hitmonlee",
+        "number": 106,
+        "types": [
+            "lucha"
+        ],
+        "weaknesses": [
+            "volador",
+            "psíquico",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Hitmonchan",
+        "number": 107,
+        "types": [
+            "lucha"
+        ],
+        "weaknesses": [
+            "volador",
+            "psíquico",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Lickitung",
+        "number": 108,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Koffing",
+        "number": 109,
+        "types": [
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Weezing",
+        "number": 110,
+        "types": [
+            "veneno"
+        ],
+        "weaknesses": [
+            "tierra",
+            "psíquico"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Rhyhorn",
+        "number": 111,
+        "types": [
+            "tierra",
+            "roca"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo",
+            "lucha",
+            "tierra",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Rhydon",
+        "number": 112,
+        "types": [
+            "tierra",
+            "roca"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "hielo",
+            "lucha",
+            "tierra",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Chansey",
+        "number": 113,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Tangela",
+        "number": 114,
+        "types": [
+            "planta"
+        ],
+        "weaknesses": [
+            "fuego",
+            "hielo",
+            "veneno",
+            "volador",
+            "bicho"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Kangaskhan",
+        "number": 115,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Horsea",
+        "number": 116,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Seadra",
+        "number": 117,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Goldeen",
+        "number": 118,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Seaking",
+        "number": 119,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Staryu",
+        "number": 120,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Starmie",
+        "number": 121,
+        "types": [
+            "agua",
+            "psíquico"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Scyther",
+        "number": 123,
+        "types": [
+            "bicho",
+            "volador"
+        ],
+        "weaknesses": [
+            "fuego",
+            "eléctrico",
+            "hielo",
+            "volador",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Jynx",
+        "number": 124,
+        "types": [
+            "hielo",
+            "psíquico"
+        ],
+        "weaknesses": [
+            "fuego",
+            "bicho",
+            "roca",
+            "fantasma",
+            "siniestro",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Electabuzz",
+        "number": 125,
+        "types": [
+            "eléctrico"
+        ],
+        "weaknesses": [
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Magmar",
+        "number": 126,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Pinsir",
+        "number": 127,
+        "types": [
+            "bicho"
+        ],
+        "weaknesses": [
+            "fuego",
+            "volador",
+            "roca"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Tauros",
+        "number": 128,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Magikarp",
+        "number": 129,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Gyarados",
+        "number": 130,
+        "types": [
+            "agua",
+            "volador"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "roca"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Lapras",
+        "number": 131,
+        "types": [
+            "agua",
+            "hielo"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "lucha",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": true
+    },
+    {
+        "name": "Ditto",
+        "number": 132,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Eevee",
+        "number": 133,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": true
+    },
+    {
+        "name": "Vaporeon",
+        "number": 134,
+        "types": [
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Jolteon",
+        "number": 135,
+        "types": [
+            "eléctrico"
+        ],
+        "weaknesses": [
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Flareon",
+        "number": 136,
+        "types": [
+            "fuego"
+        ],
+        "weaknesses": [
+            "agua",
+            "tierra",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Porygon",
+        "number": 137,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Omanyte",
+        "number": 138,
+        "types": [
+            "roca",
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "lucha",
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Omastar",
+        "number": 139,
+        "types": [
+            "roca",
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "lucha",
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Kabuto",
+        "number": 140,
+        "types": [
+            "roca",
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "lucha",
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Kabutops",
+        "number": 141,
+        "types": [
+            "roca",
+            "agua"
+        ],
+        "weaknesses": [
+            "eléctrico",
+            "planta",
+            "lucha",
+            "tierra"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Aerodactyl",
+        "number": 142,
+        "types": [
+            "roca",
+            "volador"
+        ],
+        "weaknesses": [
+            "agua",
+            "eléctrico",
+            "hielo",
+            "roca",
+            "acero"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Snorlax",
+        "number": 143,
+        "types": [
+            "normal"
+        ],
+        "weaknesses": [
+            "lucha"
+        ],
+        "mega": false,
+        "gigamax": true
+    },
+    {
+        "name": "Articuno",
+        "number": 144,
+        "types": [
+            "hielo",
+            "volador"
+        ],
+        "weaknesses": [
+            "fuego",
+            "eléctrico",
+            "roca",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Zapdos",
+        "number": 145,
+        "types": [
+            "eléctrico",
+            "volador"
+        ],
+        "weaknesses": [
+            "hielo",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Moltres",
+        "number": 146,
+        "types": [
+            "fuego",
+            "volador"
+        ],
+        "weaknesses": [
+            "agua",
+            "eléctrico",
+            "roca"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Dratini",
+        "number": 147,
+        "types": [
+            "dragón"
+        ],
+        "weaknesses": [
+            "hielo",
+            "dragón",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Dragonair",
+        "number": 148,
+        "types": [
+            "dragón"
+        ],
+        "weaknesses": [
+            "hielo",
+            "dragón",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Dragonite",
+        "number": 149,
+        "types": [
+            "dragón",
+            "volador"
+        ],
+        "weaknesses": [
+            "hielo",
+            "roca",
+            "dragón",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Mewtwo",
+        "number": 150,
+        "types": [
+            "psíquico"
+        ],
+        "weaknesses": [
+            "bicho",
+            "fantasma",
+            "siniestro"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Steelix",
+        "number": 208,
+        "types": [
+            "acero",
+            "tierra"
+        ],
+        "weaknesses": [
+            "fuego",
+            "agua",
+            "lucha",
+            "tierra"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Scizor",
+        "number": 212,
+        "types": [
+            "bicho",
+            "acero"
+        ],
+        "weaknesses": [
+            "fuego"
+        ],
+        "mega": true,
+        "gigamax": false
+    },
+    {
+        "name": "Tyrantrum",
+        "number": 697,
+        "types": [
+            "roca",
+            "dragón"
+        ],
+        "weaknesses": [
+            "hielo",
+            "lucha",
+            "tierra",
+            "dragón",
+            "acero",
+            "hada"
+        ],
+        "mega": false,
+        "gigamax": false
+    },
+    {
+        "name": "Lycanroc",
+        "number": 745,
+        "types": [
+            "roca"
+        ],
+        "weaknesses": [
+            "agua",
+            "planta",
+            "lucha",
+            "tierra",
+            "acero"
+        ],
+        "mega": false,
+        "gigamax": false
+    }
+]
